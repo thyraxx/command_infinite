@@ -1,0 +1,16 @@
+<dict>
+  <string name="name">Command Infinite</string>
+  <string name="author">Thyraxx.void</string>
+  <string name="description">Extend the Command mod so you can infinitely pick items you want!</string>
+
+	<dict name="classmaps">
+		<array name="scripts">
+			<array>
+				<string>ItemPickerShop</string><string>ItemPickerShopInfinite</string>
+				<string>ItemPickerShopMenuContent</string><string>ItemPickerShopInfiniteMenuContent</string>
+				<string>ItemPickerItem</string><string>ItemPickerItemInfinite</string>
+			</array>
+		</array>
+	</dict>
+</dict>
+
